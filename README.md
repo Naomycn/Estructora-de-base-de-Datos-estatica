@@ -1,0 +1,1 @@
+# Estructora-de-base-de-Datos-estatica
